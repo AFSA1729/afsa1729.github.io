@@ -20,14 +20,15 @@ Work experience
 
 <div class="cv-entry">
   <div class="cv-text">
-
-  **EPFL**  
-
-  *Scaling search in auto-regressive image generative models*  
-  
-  Jun. 2025 – Oct. 2025  
-
-  Advisor: Prof. Amir Zamir (VILAB)
+  {% markdown %}
+  * Research Intern
+    * May 2025 - Present
+    * BAN Lab, École polytechnique fédérale de Lausanne (EPFL)
+    * Supervised by Dr. Negar Kiyavash, Dr. Patrick Thiran and Saeed Masiha
+    * Aproximating Solution Set of Chance-Constrained Optimization (CCO) Problems
+    * Proposed a novel gradient-based algorithm that siginificantly outperform existing algorithms
+    * Conducted the first (to our knowledge) extensive experimental evaluation of several CCO algorithms
+  {% endmarkdown %}
   </div>
 
   <div class="cv-logo">
