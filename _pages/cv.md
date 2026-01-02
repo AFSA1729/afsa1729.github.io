@@ -17,7 +17,7 @@ Education
   * Sharif University of Technology
   * September 2021 - June 2026 (expected)
 
-Work experience
+Experience
 ======
 
 <div class="cv-entry">
