@@ -53,7 +53,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/sharif.png" width="120"/>
+  <img src="/images/sharif.png" width="160"/>
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/hkust.png" width="120"/>
+  <img src="/images/hkust.png" width="160"/>
   </div>
 </div>
 
@@ -90,18 +90,16 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/dml.png" width="120"/>
+  <img src="/images/dml.png" width="160"/>
   </div>
 </div>
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Persian: Native Proficiency
+* English: Full Professional Proficiency, TOEFL iBT Score: 105/120
+* Arabic: Elementary Proficiency
+
 
 <!-- Publications
 ======
