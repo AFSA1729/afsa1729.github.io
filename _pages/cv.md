@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download PDF version from [here](/files/cv.pdf).
+
 Education
 ======
 * B.S. in Computer Engineering
@@ -34,7 +36,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/epfl.png" width="110"/>
+  <img src="/images/epfl.png" width="120"/>
   </div>
 </div>
 
@@ -53,7 +55,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/sharif.png" width="130" />
+  <img src="/images/sharif.png" width="135" />
   </div>
 </div>
 
@@ -72,7 +74,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/hkust.svg" width="105"/>
+  <img src="/images/hkust.svg" width="95"/>
   </div>
 </div>
 
@@ -90,7 +92,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/dml.png" width="100"/>
+  <img src="/images/dml.png" width="95"/>
   </div>
 </div>
 
