@@ -54,9 +54,20 @@
 }
 
 .cv-logo {
-  text-align: center;
+  align-items: center;
 }
 
 .cv-logo img {
   max-height: 200px;
+}
+
+
+.author__avatar {
+  width: 220px;        /* increase size (default ~100–120px) */
+  height: auto;
+}
+
+.author__avatar img {
+  max-width: 100%;
+  height: auto;
 }
