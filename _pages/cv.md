@@ -17,6 +17,23 @@ Education
 
 Work experience
 ======
+
+<div class="cv-entry">
+  <div class="cv-text">
+
+  **EPFL**  
+  *Scaling search in auto-regressive image generative models*  
+  Jun. 2025 – Oct. 2025  
+
+  Advisor: Prof. Amir Zamir (VILAB)
+  </div>
+
+  <div class="cv-logo">
+  <img src="/images/epfl.png" width="120"/>
+  </div>
+</div>
+
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
