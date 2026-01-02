@@ -34,7 +34,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/epfl.png" width="120"/>
+  <img src="/images/epfl.png" />
   </div>
 </div>
 
@@ -53,7 +53,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/sharif.png" width="160"/>
+  <img src="/images/sharif.png" />
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/hkust.png" width="160"/>
+  <img src="/images/hkust.png" />
   </div>
 </div>
 
@@ -90,9 +90,27 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/dml.png" width="160"/>
+  <img src="/images/dml.png" />
   </div>
 </div>
+
+Notable Awards
+======
+* Awarded a Gold Medal in the Iranian National Mathematical Olympiad. This medal is awarded annually to the top 12 Iranian students in mathematics.
+* Awarded a Silver Medal and ranked 3rd nationwide in the Iranian Geometry Olympiad (Advanced Section).
+* Awarded a Silver Medal and ranked 3rd in the Silk Road Mathematical Olympiad (Intermediate Section). 
+
+
+Voluntary Teaching Assistance
+======
+* Fundamentals of Programming
+* Logic Design
+* Linear Algebra (2 times) 
+* Discrete Structures
+* Design of Algorithms (Head TA)  
+* Machine Learning (4 times)
+* Engineering Probability and Statistics (2 times)
+
   
 Languages
 ======
