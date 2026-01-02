@@ -38,21 +38,61 @@ Work experience
   </div>
 </div>
 
+<div class="cv-entry">
+  <div class="cv-text">
+  <ul>
+    <li> Research Experience </li>
+      <ul>
+        <li> November 2024 - April 2025</li>
+        <li> Sharif University of Technology</li>
+        <li> Supervised by Dr. Sajjad Amini</li>
+        <li> Aligning Consistency Models by Preference Optimization </li>
+        <li> Extended the Direct Preference Optimization (DPO) framework to consistency models, enabling direct alignment from human feedback </li>
+      </ul>
+  </ul>
+  </div>
 
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  <div class="cv-logo">
+  <img src="/images/sharif.png" width="120"/>
+  </div>
+</div>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<div class="cv-entry">
+  <div class="cv-text">
+  <ul>
+    <li> Research Intern </li>
+      <ul>
+        <li> June 2024 - November 2024</li>
+        <li> Hong Kong University of Science and Technology (HKUST)</li>
+        <li> Supervised by Dr. Victor Junqiu Wei and Dr. Yuanfeng Song</li>
+        <li> Translating Natural Language Questions to Data Visualizations</li>
+        <li> Implemented general pipeline for dataset generation that leverages guided discovery to convert existing Text-to-SQL datasets into Text-to-Vis benchmarks </li>
+      </ul>
+  </ul>
+  </div>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  <div class="cv-logo">
+  <img src="/images/hkust.png" width="120"/>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-text">
+  <ul>
+    <li> Research Experience </li>
+      <ul>
+        <li> June 2023 - June 2024</li>
+        <li> Data Science and Machine Learning Lab (DML), Sharif University of Technology</li>
+        <li> Supervised by Dr. Hamid R. Rabiee and Dr. Maryam ramezani</li>
+        <li> Infection Rate Inference Using Partially Observed Diffusion </li>
+      </ul>
+  </ul>
+  </div>
+
+  <div class="cv-logo">
+  <img src="/images/dml.png" width="120"/>
+  </div>
+</div>
   
 Skills
 ======
@@ -63,7 +103,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -83,4 +123,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
