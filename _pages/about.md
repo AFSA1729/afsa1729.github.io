@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ashkan Majidi, a final-year Computer Engineering 
+Hi! I'm Ashkan Majidi, a final-year Computer Engineering student at Sharif University of Technology (SUT).
