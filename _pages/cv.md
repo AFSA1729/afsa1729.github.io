@@ -34,7 +34,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/epfl.png" width="80"/>
+  <img src="/images/epfl.png" width="110"/>
   </div>
 </div>
 
@@ -53,7 +53,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/sharif.png" width="110" />
+  <img src="/images/sharif.png" width="130" />
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/hkust.png" width="120"/>
+  <img src="/images/hkust.svg" width="130"/>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/dml.png" width="100"/>
+  <img src="/images/dml.png" width="120"/>
   </div>
 </div>
 
