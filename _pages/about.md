@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,4 +9,4 @@ redirect_from:
 
 Hi! I'm Ashkan Majidi, a final-year Computer Engineering student at Sharif University of Technology (SUT).
 
-I'm generally interested in Machine Learning, especially Reinfrocement Learning and Learning on Graph.
+I am generally interested in Machine Learning, especially Reinfrocement Learning and Learning on Graph.
