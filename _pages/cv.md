@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering
-  * Sharif University of Technology
+B.S. in Computer Engineering
+* Sharif University of Technology
   * September 2021 - June 2026 (expected)
 
 Work experience
@@ -22,7 +22,9 @@ Work experience
   <div class="cv-text">
 
   **EPFL**  
+
   *Scaling search in auto-regressive image generative models*  
+  
   Jun. 2025 – Oct. 2025  
 
   Advisor: Prof. Amir Zamir (VILAB)
