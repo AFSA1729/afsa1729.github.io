@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-B.S. in Computer Engineering
-* Sharif University of Technology
+* B.S. in Computer Engineering
+  * Sharif University of Technology
   * September 2021 - June 2026 (expected)
 
 Work experience
@@ -28,7 +28,7 @@ Work experience
         <li> Supervised by Dr. Negar Kiyavash, Dr. Patrick Thiran and Saeed Masiha</li>
         <li> Aproximating the Solution Set of Chance-Constrained Optimization (CCO) Problems</li>
         <li> Proposed a novel gradient-based algorithm that siginificantly outperform existing algorithms</li>
-        <li> Conducted the first (to our knowledge) extensive experimental evaluation of several CCO algorithms</li>
+        <li> Conducted the first, to our knowledge, extensive experimental evaluation of several CCO algorithms</li>
       </ul>
   </ul>
   </div>
