@@ -72,7 +72,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/hkust.svg" width="130"/>
+  <img src="/images/hkust.svg" width="105"/>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/dml.png" width="120"/>
+  <img src="/images/dml.png" width="100"/>
   </div>
 </div>
 
