@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.cv-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+.cv-text {
+  max-width: 75%;
+}
+
+.cv-logo img {
+  max-height: 80px;
+}
