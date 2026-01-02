@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF version from [here](/files/cv.pdf).
+Download PDF version from [here](/files/CV-AshkanMajidi.pdf).
 
 Education
 ======
@@ -36,7 +36,7 @@ Work experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/epfl.png" width="120"/>
+  <img src="/images/epfl.png" width="140"/>
   </div>
 </div>
 
