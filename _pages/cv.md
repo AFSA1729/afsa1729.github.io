@@ -20,15 +20,17 @@ Work experience
 
 <div class="cv-entry">
   <div class="cv-text">
-  {% markdown %}
-  * Research Intern
-    * May 2025 - Present
-    * BAN Lab, École polytechnique fédérale de Lausanne (EPFL)
-    * Supervised by Dr. Negar Kiyavash, Dr. Patrick Thiran and Saeed Masiha
-    * Aproximating Solution Set of Chance-Constrained Optimization (CCO) Problems
-    * Proposed a novel gradient-based algorithm that siginificantly outperform existing algorithms
-    * Conducted the first (to our knowledge) extensive experimental evaluation of several CCO algorithms
-  {% endmarkdown %}
+  <ul>
+    <li> Research Intern </li>
+      <ul>
+        <li> May 2025 - Present</li>
+        <li> BAN Lab, École polytechnique fédérale de Lausanne (EPFL)</li>
+        <li> Supervised by Dr. Negar Kiyavash, Dr. Patrick Thiran and Saeed Masiha</li>
+        <li> Aproximating the Solution Set of Chance-Constrained Optimization (CCO) Problems</li>
+        <li> Proposed a novel gradient-based algorithm that siginificantly outperform existing algorithms</li>
+        <li> Conducted the first (to our knowledge) extensive experimental evaluation of several CCO algorithms</li>
+      </ul>
+  </ul>
   </div>
 
   <div class="cv-logo">
