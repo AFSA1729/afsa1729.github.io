@@ -84,15 +84,15 @@ Experience
     <li> Research Experience </li>
       <ul>
         <li> June 2023 - June 2024</li>
-        <li> Data Science and Machine Learning Lab (DML), Sharif University of Technology</li>
-        <li> Supervised by Dr. Hamid R. Rabiee and Dr. Maryam ramezani</li>
+        <li> Sharif University of Technology</li>
+        <li> Supervised by Dr. Maryam ramezani</li>
         <li> Infection Rate Inference Using Partially Observed Diffusion </li>
       </ul>
   </ul>
   </div>
 
   <div class="cv-logo">
-  <img src="/images/dml.png" width="95"/>
+  <img src="/images/sharif.png" width="95"/>
   </div>
 </div>
 
