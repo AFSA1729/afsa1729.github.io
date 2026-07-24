@@ -74,7 +74,7 @@ Experience
   </div>
 
   <div class="cv-logo">
-  <img src="/images/hkust.svg" width="95"/>
+  <img src="/images/hkust.svg" width="135"/>
   </div>
 </div>
 
