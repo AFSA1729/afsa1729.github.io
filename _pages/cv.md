@@ -25,7 +25,7 @@ Experience
   <ul>
     <li> Research Intern </li>
       <ul>
-        <li> May 2025 - Present</li>
+        <li> May 2025 - December 2025</li>
         <li> BAN Lab, École polytechnique fédérale de Lausanne (EPFL)</li>
         <li> Supervised by Dr. Negar Kiyavash, Dr. Patrick Thiran and Saeed Masiha</li>
         <li> Aproximating the Solutions of Chance-Constrained Optimization (CCO) Problems</li>
