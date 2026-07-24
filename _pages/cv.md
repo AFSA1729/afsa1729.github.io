@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Computer Engineering
   * Sharif University of Technology
-  * September 2021 - June 2026 (expected)
+  * September 2021 - July 2026 (expected)
 
 Experience
 ======
